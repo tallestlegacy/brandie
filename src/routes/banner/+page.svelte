@@ -8,29 +8,29 @@
 			title: 'Standard',
 			backgroundColor: 'transparent',
 			textColor: Colors.Night,
-			logoPrimaryColor: Colors.MoonStone,
-			logoSecondaryColor: Colors.LapisLazuli
+			logoPrimaryColor: Colors.Yellow,
+			logoSecondaryColor: Colors.MoonStone
 		},
 
 		{
 			title: 'Green',
-			backgroundColor: 'transparent',
-			textColor: Colors.Night,
-			logoPrimaryColor: Colors.LapisLazuli,
-			logoSecondaryColor: Colors.LapisLazuli
+			backgroundColor: Colors.Night,
+			textColor: Colors.AliceBlue,
+			logoPrimaryColor: Colors.Yellow,
+			logoSecondaryColor: Colors.Malachite
 		},
 		{
 			title: 'Black',
-			backgroundColor: 'transparent',
-			textColor: Colors.Night,
-			logoPrimaryColor: Colors.Night,
-			logoSecondaryColor: Colors.LapisLazuli
+			backgroundColor: Colors.MoonStone,
+			textColor: Colors.AliceBlue,
+			logoPrimaryColor: Colors.AliceBlue,
+			logoSecondaryColor: Colors.AliceBlue
 		}
 	];
 </script>
 
 <ScrollArea class="p-8">
-	<div class="grid gap-8">
+	<div class="mx-auto grid max-w-screen-lg gap-8">
 		{#each examples as config}
 			<Banner {...config} />
 		{/each}

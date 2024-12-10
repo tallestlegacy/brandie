@@ -3,5 +3,6 @@ export enum Colors {
 	LapisLazuli = '#23f784',
 	MoonStone = '#40A8C4',
 	AliceBlue = '#EEF6F7',
-	Night = '#00120b'
+	Night = '#00120b',
+	Yellow = '#fcce07'
 }

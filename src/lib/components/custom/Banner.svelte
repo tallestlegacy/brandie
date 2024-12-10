@@ -15,25 +15,31 @@
 	const { backgroundColor, textColor, logoPrimaryColor, logoSecondaryColor }: Props = $props();
 </script>
 
-<div class="border-px border-foreground/50 h-fit border p-4 pb-32 shadow-lg">
-	<div class="flex items-center justify-between gap-4">
+<div class="border-px border-foreground/50 h-fit rounded-sm border p-4 pb-32 shadow-lg">
+	<div
+		class="flex items-center justify-between gap-4 border border-dashed border-[red] p-8"
+		style:background-color={backgroundColor}
+	>
 		<!-- left -->
 		<div class="flex items-center gap-8">
-			<div class="flex aspect-square min-w-[240px] items-center justify-center rounded-full">
-				<Logo fill={logoPrimaryColor} />
-			</div>
+			<Logo fill={logoPrimaryColor} />
 
-			<div class="flex flex-col">
-				<h1 class="text-4xl font-bold">{branding.brandName}</h1>
+			<div class="flex flex-col gap-4">
+				<h1 style:color={textColor} class="text-4xl font-bold">{branding.brandName}</h1>
+				<p style:color={textColor} class="">{branding.headline}</p>
 			</div>
 		</div>
 
 		<!-- right -->
-		<div class="flex aspect-square min-w-[120px] items-center justify-center rounded-full">
-			<Logo fill="gray" height="107.5px" width="60px" />
-		</div>
-	</div>
-	<div class="flex justify-end">
-		<p>{branding.headline}</p>
+		<Logo fill={logoSecondaryColor} height="107.5px" width="60px" />
 	</div>
 </div>
+
+<style>
+	@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+	h1,
+	p {
+		font-family: 'Montserrat', sans-serif;
+	}
+</style>
