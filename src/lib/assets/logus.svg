@@ -3,15 +3,12 @@
 
 <svg
    width="120mm"
-   height="215.00026mm"
-   viewBox="0 0 120 215.00026"
+   height="215mm"
+   viewBox="0 0 120 215"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="logus.svg"
-   inkscape:export-filename="logus.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,70 +23,40 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.5"
-     inkscape:cx="326"
-     inkscape:cy="422"
+     inkscape:zoom="0.90105615"
+     inkscape:cx="537.14743"
+     inkscape:cy="250.81678"
      inkscape:window-width="2560"
      inkscape:window-height="1371"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     inkscape:lockguides="false" />
+     inkscape:current-layer="svg1" />
   <defs
      id="defs1" />
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     style="display:inline"
-     transform="translate(-140.00024,-92.5)">
-    <rect
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.17109"
-       id="rect1"
-       width="20.000015"
-       height="100"
-       x="190.00003"
-       y="207.50026"
-       ry="10"
-       inkscape:label="middle finger" />
-    <path
-       id="rect6"
-       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.29809"
-       d="m 200.00025,182.50018 c -19.39002,0 -35.00048,15.60994 -35.00048,34.99994 v 16.73179 53.26858 4.9997 c 0,5.54 4.46042,9.99991 10.00043,9.99991 5.54,0 9.99991,-4.45991 9.99991,-9.99991 v -9.99991 -4.02301 -12.59664 -48.38051 c 0,-8.31 6.69013,-15.00012 15.00014,-15.00012 8.31,0 14.99961,6.69012 14.99961,15.00012 v 48.38102 12.59613 4.02301 5.00021 4.9997 c 0,5.54 4.46042,9.99991 10.00042,9.99991 5.54001,0 9.99992,-4.45991 9.99992,-9.99991 v -4.9997 -5.00021 -48.26837 -16.73179 c 0,-19.39 -15.60994,-34.99994 -34.99995,-34.99994 z" />
-    <path
-       id="rect5"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.17109"
-       d="m 200.00025,157.50016 c -33.23934,0 -59.99889,26.75886 -60.00001,59.99789 v 0.001 10e-4 65.00016 c 0,5.54 4.45991,9.99991 9.99992,9.99991 5.54,0 9.9999,-4.45991 9.9999,-9.99991 v -20.21892 -44.78228 c 0,-22.16 17.84017,-39.99962 40.00019,-39.99962 22.16001,0 39.99964,17.83962 39.99964,39.99962 v 44.78228 20.21892 c 0,5.54 4.46043,9.99991 10.00043,9.99991 5.54001,0 9.99992,-4.45991 9.99992,-9.99991 v -65.00016 -0.002 c -0.001,-33.23903 -26.76067,-59.99789 -59.99999,-59.99789 z" />
-    <path
-       id="rect7"
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.79375"
-       inkscape:label="guide"
-       d="m 200.00025,92.5 c -16.62002,0 -30.00027,13.38024 -30.00027,30.00023 0,16.62 13.38025,30.00024 30.00027,30.00024 16.62001,0 29.99973,-13.38024 29.99973,-30.00024 0,-16.61999 -13.37972,-30.00023 -29.99973,-30.00023 z m 0,20.00033 c 5.54,0 9.9999,4.4599 9.9999,9.9999 0,5.54 -4.4599,9.99991 -9.9999,9.99991 -5.54001,0 -10.00044,-4.45991 -10.00044,-9.99991 0,-5.54 4.46043,-9.9999 10.00044,-9.9999 z" />
-    <rect
-       style="display:none;opacity:0.69;fill:#00ffff;stroke-width:1.5875"
-       id="rect10"
-       width="120"
-       height="120"
-       x="140"
-       y="120"
-       inkscape:label="guide"
-       ry="60" />
-    <rect
-       style="display:none;opacity:0.69;fill:#ff0000;stroke-width:0.561265"
-       id="rect12"
-       width="20"
-       height="90"
-       x="260"
-       y="180"
-       inkscape:label="guide" />
-    <rect
-       style="display:none;opacity:0.69;fill:#ff0000;stroke-width:0.561265"
-       id="rect26"
-       width="20"
-       height="90"
-       x="200"
-       y="120"
-       inkscape:label="guide" />
-  </g>
+  <rect
+     style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.17109"
+     id="rect15"
+     width="20.000015"
+     height="99.999878"
+     x="49.99979"
+     y="115.00012"
+     ry="9.9999876"
+     inkscape:label="middle finger" />
+  <path
+     id="path15"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.29809"
+     d="m 60.00001,90.000071 c -19.39002,0 -35.00048,15.609919 -35.00048,34.999899 v 65.00008 c 0,5.53999 4.46042,9.9999 10.00043,9.9999 5.54,0 9.99991,-4.45991 9.99991,-9.9999 v -65.00008 c 0,-8.30999 6.69013,-15.0001 15.00014,-15.0001 8.31,0 14.99961,6.69011 14.99961,15.0001 v 65.00008 c 0,5.53999 4.46042,9.9999 10.00042,9.9999 5.54001,0 9.99992,-4.45991 9.99992,-9.9999 v -65.00008 c 0,-19.38998 -15.60994,-34.999899 -34.99995,-34.999899 z"
+     sodipodi:nodetypes="sssssssssssss" />
+  <path
+     id="path16"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.17109"
+     d="M 60.00001,65.000081 C 26.76067,65.000081 0.00112,91.758909 0,124.9979 v 50.00212 c 0,5.53999 4.45991,9.9999 9.99992,9.9999 5.54,0 9.9999,-4.45991 9.9999,-9.9999 v -50.00116 c 0,-22.15997 17.84017,-39.999573 40.00019,-39.999573 22.16001,0 39.99964,17.839603 39.99964,39.999573 v 45.00119 c 0,5.54 4.46043,9.9999 10.00043,9.9999 5.54001,0 9.99992,-4.4599 9.99992,-9.9999 v -45.00015 -0.002 C 119.999,91.758909 93.23933,65.000081 60.00001,65.000081 Z"
+     sodipodi:nodetypes="ssssssssssscss" />
+  <path
+     id="path17"
+     style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.79375"
+     inkscape:label="circle"
+     d="M 60.00001,7.5000003e-8 C 43.37999,7.5000003e-8 29.99974,13.380224 29.99974,30.000194 c 0,16.61998 13.38025,30.000203 30.00027,30.000203 16.62001,0 29.99973,-13.380223 29.99973,-30.000203 C 89.99974,13.380224 76.62002,7.5000003e-8 60.00001,7.5000003e-8 Z M 60.00001,20.000306 c 5.54,0 9.9999,4.459894 9.9999,9.999888 0,5.539993 -4.4599,9.999898 -9.9999,9.999898 -5.54001,0 -10.00044,-4.459905 -10.00044,-9.999898 0,-5.539994 4.46043,-9.999888 10.00044,-9.999888 z"
+     sodipodi:nodetypes="ssssssssss" />
 </svg>

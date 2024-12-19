@@ -23,7 +23,7 @@
 	>
 		<!-- left -->
 		<div class="flex items-center gap-8">
-			<MainLogus fill={logoPrimaryColor} />
+			<MainLogus fill={logoPrimaryColor} height="107.5px" width="60px" />
 
 			<div class="flex flex-col gap-4">
 				<h1 style:color={textColor} class="text-4xl font-bold">{branding.brandName}</h1>
@@ -32,7 +32,10 @@
 		</div>
 
 		<!-- right -->
-		<Logo fill={logoSecondaryColor} height="107.5px" width="60px" />
+		<div class="flex flex-col items-center gap-2">
+			<Logo fill={logoSecondaryColor} height="107.5px" width="60px" />
+			<p style:color={textColor} class="text-xl font-bold">{branding.subBrandName}</p>
+		</div>
 	</div>
 </div>
 

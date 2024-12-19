@@ -13,14 +13,14 @@
 		},
 
 		{
-			title: 'Green',
+			title: 'Black',
 			backgroundColor: Colors.Night,
 			textColor: Colors.AliceBlue,
 			logoPrimaryColor: Colors.Yellow,
-			logoSecondaryColor: Colors.Malachite
+			logoSecondaryColor: Colors.MoonStone
 		},
 		{
-			title: 'Black',
+			title: 'Blue',
 			backgroundColor: Colors.MoonStone,
 			textColor: Colors.AliceBlue,
 			logoPrimaryColor: Colors.AliceBlue,

@@ -3,6 +3,7 @@
 	import * as Sidebar from '$lib/components/ui/sidebar/index.js';
 
 	import '../app.css';
+	import "../typography.css";
 
 	let { children } = $props();
 </script>
